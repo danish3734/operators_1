@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\bin\Debug\net8.0\Opperator_assig_final.exe
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\bin\Debug\net8.0\Opperator_assig_final.deps.json
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\bin\Debug\net8.0\Opperator_assig_final.runtimeconfig.json
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\bin\Debug\net8.0\Opperator_assig_final.dll
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\bin\Debug\net8.0\Opperator_assig_final.pdb
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\Opperator_assig_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\Opperator_assig_final.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\Opperator_assig_final.AssemblyInfo.cs
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\Opperator_assig_final.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\Opperator_assig_final.dll
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\refint\Opperator_assig_final.dll
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\Opperator_assig_final.pdb
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\Opperator_assig_final.genruntimeconfig.cache
+C:\Users\User\source\repos\Opperator_assig_final\Opperator_assig_final\obj\Debug\net8.0\ref\Opperator_assig_final.dll
